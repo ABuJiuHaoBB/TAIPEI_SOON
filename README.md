@@ -7,11 +7,11 @@
 - 配色：綠、橘、粉（三款）
 - 檔案：`送印物/戒慎恐懼協會綠.ai`、`戒慎恐懼協會橘.ai`、`戒慎恐懼協會粉.ai`
 - 規格：藍格影印刀模版本
-- 送印：於「藍格」網站（https://ec.blueco.com.tw/）  選取「彩色名片型貼紙」送印即可。
+- 送印：於「藍格」網站選取「彩色名片型貼紙」送印即可。 網址為 https://ec.blueco.com.tw/
 
 ### 字體說明
 
-- 本系列採用「饅頭黑體」（Mantou Sans，https://github.com/mant0u0/MantouSans）  設計。
+- 本系列採用「饅頭黑體」設計。 Mantou Sans，https://github.com/mant0u0/MantouSans
 - 字體的使用規範，請依原作者於其 GitHub 上的說明為準。
 
 ## 下載與印製
