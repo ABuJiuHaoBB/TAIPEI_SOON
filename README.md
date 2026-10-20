@@ -9,6 +9,14 @@
 - 規格：藍格影印刀模版本
 - 送印：於「藍格」網站（https://ec.blueco.com.tw/）選取「彩色名片型貼紙」送印即可。
 
+### 預覽
+
+| 配色 | 預覽圖 |
+|---|---|
+| 綠 | ![綠](image/Green.png) |
+| 橘 | ![橘](image/Orange.png) |
+| 粉 | ![粉](image/Pink.png) |
+
 ### 字體說明
 
 - 本系列採用「饅頭黑體」（Mantou Sans，https://github.com/mant0u0/MantouSans）設計。
